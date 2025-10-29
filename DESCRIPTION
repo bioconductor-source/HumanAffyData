@@ -2,7 +2,7 @@ Package: HumanAffyData
 Type: Package
 Title: GEO accession GSE64985 and ArrayExpress accession E-MTAB-62 as
         ExpressionSet objects
-Version: 1.35.0
+Version: 1.36.0
 Date: 2016-08-08
 Author: Brad Nelms
 Maintainer: Brad Nelms <bnelms.research@gmail.com>
